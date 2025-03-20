@@ -1,1 +1,7 @@
+dotenv
 pandas
+neo4j
+langchain-neo4j
+langchain-openai
+langchain-google-genai
+langgraph
