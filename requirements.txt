@@ -5,3 +5,7 @@ langchain-neo4j
 langchain-openai
 langchain-google-genai
 langgraph
+
+scikit-learn
+matplotlib
+numpy
